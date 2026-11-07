@@ -1,0 +1,9 @@
+{
+  "map": "stuck_ghost.json",
+  "seed": 8,
+  "depth": 2,
+  "max_rounds": 40,
+  "agent": "W",
+  "action": null,
+  "operation": "successor"
+}

@@ -1,0 +1,32 @@
+{
+  "map": "written_two_ghosts.json",
+  "seed": 8,
+  "depth": 2,
+  "max_rounds": 40,
+  "agent": "W",
+  "written_only": true,
+  "state": {
+    "pos": [
+      3,
+      2
+    ],
+    "ghosts": {
+      "W": [
+        2,
+        1
+      ],
+      "X": [
+        1,
+        2
+      ]
+    },
+    "food": [
+      [
+        1,
+        1
+      ]
+    ],
+    "score": -1,
+    "winner": null
+  }
+}

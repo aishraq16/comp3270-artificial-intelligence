@@ -1,0 +1,29 @@
+{
+  "map": "one_food.json",
+  "seed": 8,
+  "depth": 2,
+  "max_rounds": 40,
+  "agent": "W",
+  "action": "West",
+  "operation": "successor",
+  "state": {
+    "pos": [
+      3,
+      1
+    ],
+    "ghosts": {
+      "W": [
+        3,
+        2
+      ]
+    },
+    "food": [
+      [
+        3,
+        2
+      ]
+    ],
+    "score": 0,
+    "winner": null
+  }
+}

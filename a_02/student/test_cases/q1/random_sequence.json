@@ -1,0 +1,7 @@
+{
+  "map": "corridor.json",
+  "seed": 8,
+  "depth": 2,
+  "max_rounds": 40,
+  "operation": "random"
+}

@@ -1,0 +1,32 @@
+{
+  "map": "two_ghosts.json",
+  "seed": 8,
+  "depth": 2,
+  "max_rounds": 40,
+  "agent": "W",
+  "operation": "actions",
+  "state": {
+    "pos": [
+      3,
+      1
+    ],
+    "ghosts": {
+      "W": [
+        2,
+        1
+      ],
+      "X": [
+        2,
+        2
+      ]
+    },
+    "food": [
+      [
+        1,
+        1
+      ]
+    ],
+    "score": 0,
+    "winner": null
+  }
+}

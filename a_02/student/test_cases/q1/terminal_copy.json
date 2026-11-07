@@ -1,0 +1,8 @@
+{
+  "map": "terminal.json",
+  "seed": 8,
+  "depth": 2,
+  "max_rounds": 40,
+  "action": null,
+  "operation": "successor"
+}

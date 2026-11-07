@@ -1,0 +1,29 @@
+{
+  "map": "food_under_ghost.json",
+  "seed": 8,
+  "depth": 2,
+  "max_rounds": 40,
+  "agent": "W",
+  "action": "West",
+  "operation": "successor",
+  "state": {
+    "pos": [
+      1,
+      1
+    ],
+    "ghosts": {
+      "W": [
+        1,
+        4
+      ]
+    },
+    "food": [
+      [
+        1,
+        3
+      ]
+    ],
+    "score": 0,
+    "winner": null
+  }
+}

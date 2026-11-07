@@ -1,0 +1,8 @@
+{
+  "map": "corridor.json",
+  "seed": 8,
+  "depth": 2,
+  "max_rounds": 40,
+  "agent": "W",
+  "operation": "actions"
+}
