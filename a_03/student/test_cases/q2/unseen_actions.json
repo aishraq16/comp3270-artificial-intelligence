@@ -1,0 +1,31 @@
+{
+  "description": "Missing next-action Q entries are zero",
+  "operation": "q_update",
+  "map": "gridworld",
+  "state": [
+    0,
+    0
+  ],
+  "action": "East",
+  "reward": 0,
+  "next_state": [
+    0,
+    1
+  ],
+  "next_actions": [
+    "North",
+    "East"
+  ],
+  "alpha": 1,
+  "gamma": 0.9,
+  "q_values": [
+    [
+      [
+        0,
+        1
+      ],
+      "North",
+      -1
+    ]
+  ]
+}

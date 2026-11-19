@@ -1,0 +1,8 @@
+{
+  "map": "written_turns.json",
+  "seed": 8,
+  "depth": 2,
+  "max_rounds": 40,
+  "agent": "X",
+  "written_only": true
+}

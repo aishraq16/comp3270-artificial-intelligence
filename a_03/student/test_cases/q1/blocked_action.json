@@ -1,0 +1,26 @@
+{
+  "description": "Blocked probability stays at current state",
+  "operation": "action_value",
+  "map": "gridworld",
+  "state": [
+    0,
+    0
+  ],
+  "action": "North",
+  "values": [
+    [
+      [
+        0,
+        0
+      ],
+      2
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      1
+    ]
+  ]
+}

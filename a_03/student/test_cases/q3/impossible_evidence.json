@@ -1,0 +1,15 @@
+{
+  "description": "Zero total weight is an error for exact inference",
+  "operation": "observe",
+  "map": "corridor",
+  "belief": [
+    [
+      [
+        0,
+        0
+      ],
+      1
+    ]
+  ],
+  "observation": 3
+}

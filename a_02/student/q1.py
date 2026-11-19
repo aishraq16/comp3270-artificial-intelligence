@@ -41,20 +41,47 @@ def successor(problem, state, agent, action):
     The PDF gives the complete rules, including collisions on food."""
     # Your Q1 code here
     #raise NotImplementedError('Implement successor')
+
+    new_state = {
+        "pos": state["pos"],
+        "ghosts": dict(state["ghosts"]),  # Make a new dictionary
+        "food": state["food"],            # frozenset, safe to reuse
+        "score": state["score"],
+        "winner": state["winner"],
+    }
+    #check for None
     if action == None:
-        state["score"] -= 1
-        return state
-    
+        if legal_actions(problem, state, agent) != []: raise ValueError
+        new_state["score"] -= 1
+        return new_state
+
     possible_moves = {
         "North" : (-1, 0),
         "East" : (0, 1),
         "South" : (1, 0),
         "West" : (0, -1)
     }
-    
+
     (row, col) = state["pos"] if agent == 'P' else state["ghosts"][agent]
     x, y = possible_moves[action]
     future_loc = (x + row, y + col)
+    new_state["pos"] = future_loc
+    if agent == "P":
+        new_state["score"] -= 1
+        #check ghost collision
+        if future_loc in state["ghosts"].values():
+            new_state["score"] -= 500
+            new_state["winner"] = "Ghost"
+        #check food
+        elif(future_loc in state["food"]):
+            new_state["score"] += 10
+            new_state["food"] = state["food"] - {future_loc}
+            if not state["food"]: 
+                new_state["score"] += 500
+                new_state["winner"] = "Pacman"
+    else:
+        new_state["ghosts"][agent] = future_loc
+    return new_state
 
 
 
@@ -64,7 +91,7 @@ def random_action(problem, state, agent, rng):
     rng is a supplied random.Random instance. Use it exactly once when moves exist,
     and zero times for pass. Do not seed, use global randomness, or modify inputs."""
     # Your Q1 code here
-    raise NotImplementedError('Implement random_action')
+    #raise NotImplementedError('Implement random_action')
 
 # Supplied runner: leave everything below unchanged.
 if __name__ == '__main__':

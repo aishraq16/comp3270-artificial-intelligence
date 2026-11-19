@@ -1,0 +1,49 @@
+{
+  "description": "Repeated positions contribute repeated weight",
+  "operation": "observe_particles",
+  "map": "corridor",
+  "particles": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ]
+  ],
+  "observation": 1,
+  "seed": 6
+}

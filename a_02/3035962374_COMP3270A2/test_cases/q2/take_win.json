@@ -1,0 +1,7 @@
+{
+  "map": "one_food.json",
+  "seed": 8,
+  "depth": 2,
+  "max_rounds": 40,
+  "must_choose": "East"
+}

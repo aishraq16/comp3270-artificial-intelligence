@@ -1,0 +1,40 @@
+{
+  "description": "Each duplicate gets an independent move",
+  "operation": "predict_particles",
+  "map": "corridor",
+  "particles": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "seed": 4
+}

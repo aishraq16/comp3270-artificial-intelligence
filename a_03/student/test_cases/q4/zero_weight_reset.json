@@ -1,0 +1,29 @@
+{
+  "description": "Recover when the current particles miss the evidence",
+  "operation": "observe_particles",
+  "map": "corridor",
+  "particles": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "observation": 3,
+  "seed": 9
+}

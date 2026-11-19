@@ -1,0 +1,28 @@
+{
+  "description": "Use the wall-aware motion model",
+  "operation": "predict_particles",
+  "map": "ghost_room",
+  "particles": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      2,
+      2
+    ]
+  ],
+  "seed": 2
+}

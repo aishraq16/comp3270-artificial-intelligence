@@ -1,0 +1,6 @@
+{
+  "description": "Sensor clamps negative readings to zero",
+  "operation": "observe",
+  "map": "corridor",
+  "observation": 0
+}

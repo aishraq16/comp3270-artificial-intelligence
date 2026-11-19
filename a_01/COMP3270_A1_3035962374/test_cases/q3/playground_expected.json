@@ -1,0 +1,3085 @@
+{
+  "result": {
+    "expanded": [
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "path": [
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        2
+      ]
+    ]
+  },
+  "representation": {
+    "valid_positions": [
+      {
+        "state": [
+          -1,
+          -1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          0
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          2
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          3
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          4
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          5
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          6
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          7
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          8
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          9
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          10
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          11
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          12
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          -1,
+          13
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          -1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          0
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          2
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          3
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          4
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          5
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          6
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          7
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          8
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          9
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          10
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          11
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          12
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          0,
+          13
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          1,
+          -1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          1,
+          0
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          1,
+          1
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          1,
+          2
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          1,
+          3
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          1,
+          4
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          1,
+          5
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          1,
+          6
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          1,
+          7
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          1,
+          8
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          1,
+          9
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          1,
+          10
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          1,
+          11
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          1,
+          12
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          1,
+          13
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          2,
+          -1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          2,
+          0
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          2,
+          1
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          2,
+          2
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          2,
+          3
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          2,
+          4
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          2,
+          5
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          2,
+          6
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          2,
+          7
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          2,
+          8
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          2,
+          9
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          2,
+          10
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          2,
+          11
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          2,
+          12
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          2,
+          13
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          3,
+          -1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          3,
+          0
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          3,
+          1
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          3,
+          2
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          3,
+          3
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          3,
+          4
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          3,
+          5
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          3,
+          6
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          3,
+          7
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          3,
+          8
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          3,
+          9
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          3,
+          10
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          3,
+          11
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          3,
+          12
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          3,
+          13
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          4,
+          -1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          4,
+          0
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          4,
+          1
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          4,
+          2
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          4,
+          3
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          4,
+          4
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          4,
+          5
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          4,
+          6
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          4,
+          7
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          4,
+          8
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          4,
+          9
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          4,
+          10
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          4,
+          11
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          4,
+          12
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          4,
+          13
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          5,
+          -1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          5,
+          0
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          5,
+          1
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          5,
+          2
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          5,
+          3
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          5,
+          4
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          5,
+          5
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          5,
+          6
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          5,
+          7
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          5,
+          8
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          5,
+          9
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          5,
+          10
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          5,
+          11
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          5,
+          12
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          5,
+          13
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          6,
+          -1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          6,
+          0
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          6,
+          1
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          6,
+          2
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          6,
+          3
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          6,
+          4
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          6,
+          5
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          6,
+          6
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          6,
+          7
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          6,
+          8
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          6,
+          9
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          6,
+          10
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          6,
+          11
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          6,
+          12
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          6,
+          13
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          7,
+          -1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          7,
+          0
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          7,
+          1
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          7,
+          2
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          7,
+          3
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          7,
+          4
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          7,
+          5
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          7,
+          6
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          7,
+          7
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          7,
+          8
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          7,
+          9
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          7,
+          10
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          7,
+          11
+        ],
+        "valid": true
+      },
+      {
+        "state": [
+          7,
+          12
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          7,
+          13
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          -1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          0
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          2
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          3
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          4
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          5
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          6
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          7
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          8
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          9
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          10
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          11
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          12
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          8,
+          13
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          -1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          0
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          1
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          2
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          3
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          4
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          5
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          6
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          7
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          8
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          9
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          10
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          11
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          12
+        ],
+        "valid": false
+      },
+      {
+        "state": [
+          9,
+          13
+        ],
+        "valid": false
+      }
+    ],
+    "successors": [
+      {
+        "state": [
+          1,
+          1
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              1,
+              2
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              2,
+              1
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          1,
+          2
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              1,
+              3
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              1,
+              1
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          1,
+          3
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              1,
+              4
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              1,
+              2
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          1,
+          4
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              1,
+              5
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              2,
+              4
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              1,
+              3
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          1,
+          5
+        ],
+        "successors": [
+          [
+            "South",
+            [
+              2,
+              5
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              1,
+              4
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          1,
+          7
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              1,
+              8
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              2,
+              7
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          1,
+          8
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              1,
+              9
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              2,
+              8
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              1,
+              7
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          1,
+          9
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              1,
+              10
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              1,
+              8
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          1,
+          10
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              1,
+              11
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              1,
+              9
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          1,
+          11
+        ],
+        "successors": [
+          [
+            "South",
+            [
+              2,
+              11
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              1,
+              10
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          2,
+          1
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              1,
+              1
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              3,
+              1
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          2,
+          4
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              1,
+              4
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              2,
+              5
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              3,
+              4
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          2,
+          5
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              1,
+              5
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              2,
+              6
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              2,
+              4
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          2,
+          6
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              2,
+              7
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              3,
+              6
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              2,
+              5
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          2,
+          7
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              1,
+              7
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              2,
+              8
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              2,
+              6
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          2,
+          8
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              1,
+              8
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              3,
+              8
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              2,
+              7
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          2,
+          11
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              1,
+              11
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              3,
+              11
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          3,
+          1
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              2,
+              1
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              3,
+              2
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              4,
+              1
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          3,
+          2
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              3,
+              3
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              4,
+              2
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              3,
+              1
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          3,
+          3
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              3,
+              4
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              4,
+              3
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              3,
+              2
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          3,
+          4
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              2,
+              4
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              4,
+              4
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              3,
+              3
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          3,
+          6
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              2,
+              6
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              4,
+              6
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          3,
+          8
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              2,
+              8
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              3,
+              9
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              4,
+              8
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          3,
+          9
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              3,
+              10
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              4,
+              9
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              3,
+              8
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          3,
+          10
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              3,
+              11
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              4,
+              10
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              3,
+              9
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          3,
+          11
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              2,
+              11
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              4,
+              11
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              3,
+              10
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          4,
+          1
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              3,
+              1
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              4,
+              2
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              5,
+              1
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          4,
+          2
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              3,
+              2
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              4,
+              3
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              4,
+              1
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          4,
+          3
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              3,
+              3
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              4,
+              4
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              4,
+              2
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          4,
+          4
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              3,
+              4
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              4,
+              5
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              5,
+              4
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              4,
+              3
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          4,
+          5
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              4,
+              6
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              5,
+              5
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              4,
+              4
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          4,
+          6
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              3,
+              6
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              4,
+              7
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              5,
+              6
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              4,
+              5
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          4,
+          7
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              4,
+              8
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              5,
+              7
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              4,
+              6
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          4,
+          8
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              3,
+              8
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              4,
+              9
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              5,
+              8
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              4,
+              7
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          4,
+          9
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              3,
+              9
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              4,
+              10
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              4,
+              8
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          4,
+          10
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              3,
+              10
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              4,
+              11
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              4,
+              9
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          4,
+          11
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              3,
+              11
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              5,
+              11
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              4,
+              10
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          5,
+          1
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              4,
+              1
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              6,
+              1
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          5,
+          4
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              4,
+              4
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              5,
+              5
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              6,
+              4
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          5,
+          5
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              4,
+              5
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              5,
+              6
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              5,
+              4
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          5,
+          6
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              4,
+              6
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              5,
+              7
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              6,
+              6
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              5,
+              5
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          5,
+          7
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              4,
+              7
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              5,
+              8
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              5,
+              6
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          5,
+          8
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              4,
+              8
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              6,
+              8
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              5,
+              7
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          5,
+          11
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              4,
+              11
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              6,
+              11
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          6,
+          1
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              5,
+              1
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              6,
+              2
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              7,
+              1
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          6,
+          2
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              6,
+              3
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              7,
+              2
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              6,
+              1
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          6,
+          3
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              6,
+              4
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              7,
+              3
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              6,
+              2
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          6,
+          4
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              5,
+              4
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              7,
+              4
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              6,
+              3
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          6,
+          6
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              5,
+              6
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          6,
+          8
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              5,
+              8
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              6,
+              9
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              7,
+              8
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          6,
+          9
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              6,
+              10
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              7,
+              9
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              6,
+              8
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          6,
+          10
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              6,
+              11
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              7,
+              10
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              6,
+              9
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          6,
+          11
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              5,
+              11
+            ],
+            1
+          ],
+          [
+            "South",
+            [
+              7,
+              11
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              6,
+              10
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          7,
+          1
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              6,
+              1
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              7,
+              2
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          7,
+          2
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              6,
+              2
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              7,
+              3
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              7,
+              1
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          7,
+          3
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              6,
+              3
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              7,
+              4
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              7,
+              2
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          7,
+          4
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              6,
+              4
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              7,
+              5
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              7,
+              3
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          7,
+          5
+        ],
+        "successors": [
+          [
+            "West",
+            [
+              7,
+              4
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          7,
+          7
+        ],
+        "successors": [
+          [
+            "East",
+            [
+              7,
+              8
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          7,
+          8
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              6,
+              8
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              7,
+              9
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              7,
+              7
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          7,
+          9
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              6,
+              9
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              7,
+              10
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              7,
+              8
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          7,
+          10
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              6,
+              10
+            ],
+            1
+          ],
+          [
+            "East",
+            [
+              7,
+              11
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              7,
+              9
+            ],
+            1
+          ]
+        ]
+      },
+      {
+        "state": [
+          7,
+          11
+        ],
+        "successors": [
+          [
+            "North",
+            [
+              6,
+              11
+            ],
+            1
+          ],
+          [
+            "West",
+            [
+              7,
+              10
+            ],
+            1
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "kind": "mdp",
+  "grid": [
+    "● +"
+  ],
+  "noise": 0,
+  "living_reward": -0.04,
+  "discount": 0.9,
+  "exits": [
+    {
+      "position": [
+        0,
+        2
+      ],
+      "reward": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "valid_positions": [
+      {"state": [-1, -1], "valid": false},
+      {"state": [-1, 0], "valid": false},
+      {"state": [-1, 1], "valid": false},
+      {"state": [-1, 2], "valid": false},
+      {"state": [-1, 3], "valid": false},
+      {"state": [-1, 4], "valid": false},
+      {"state": [-1, 5], "valid": false},
+      {"state": [-1, 6], "valid": false},
+      {"state": [0, -1], "valid": false},
+      {"state": [0, 0], "valid": true},
+      {"state": [0, 1], "valid": true},
+      {"state": [0, 2], "valid": true},
+      {"state": [0, 3], "valid": true},
+      {"state": [0, 4], "valid": true},
+      {"state": [0, 5], "valid": true},
+      {"state": [0, 6], "valid": false},
+      {"state": [1, -1], "valid": false},
+      {"state": [1, 0], "valid": false},
+      {"state": [1, 1], "valid": false},
+      {"state": [1, 2], "valid": false},
+      {"state": [1, 3], "valid": false},
+      {"state": [1, 4], "valid": false},
+      {"state": [1, 5], "valid": false},
+      {"state": [1, 6], "valid": false}
+    ],
+    "successors": [
+      {"state": [0, 0], "successors": [["East", [0, 1], 1]]},
+      {"state": [0, 1], "successors": [["East", [0, 2], 1], ["West", [0, 0], 1]]},
+      {"state": [0, 2], "successors": [["East", [0, 3], 1], ["West", [0, 1], 1]]},
+      {"state": [0, 3], "successors": [["East", [0, 4], 1], ["West", [0, 2], 1]]},
+      {"state": [0, 4], "successors": [["East", [0, 5], 1], ["West", [0, 3], 1]]},
+      {"state": [0, 5], "successors": [["West", [0, 4], 1]]}
+    ]
+}

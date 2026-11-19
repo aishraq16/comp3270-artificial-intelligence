@@ -1,0 +1,7 @@
+{
+  "map": "written_feature.json",
+  "seed": 8,
+  "depth": 2,
+  "max_rounds": 40,
+  "written_only": true
+}

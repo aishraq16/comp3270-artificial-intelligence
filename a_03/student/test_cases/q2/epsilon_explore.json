@@ -1,0 +1,27 @@
+{
+  "description": "Interior epsilon: explore when the draw is below epsilon",
+  "operation": "choose_action",
+  "map": "gridworld",
+  "state": [
+    0,
+    0
+  ],
+  "actions": [
+    "North",
+    "East",
+    "South",
+    "West"
+  ],
+  "epsilon": 0.2,
+  "seed": 1,
+  "q_values": [
+    [
+      [
+        0,
+        0
+      ],
+      "North",
+      3
+    ]
+  ]
+}

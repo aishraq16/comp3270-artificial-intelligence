@@ -1,0 +1,15 @@
+{
+  "pos": [
+    3,
+    2
+  ],
+  "ghosts": {
+    "W": [
+      1,
+      2
+    ]
+  },
+  "food": [],
+  "score": 509,
+  "winner": "Pacman"
+}

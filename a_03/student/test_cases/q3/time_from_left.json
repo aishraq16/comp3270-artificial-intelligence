@@ -1,0 +1,14 @@
+{
+  "description": "Blocked directions stay in the corridor",
+  "operation": "predict",
+  "map": "corridor",
+  "belief": [
+    [
+      [
+        0,
+        0
+      ],
+      1
+    ]
+  ]
+}

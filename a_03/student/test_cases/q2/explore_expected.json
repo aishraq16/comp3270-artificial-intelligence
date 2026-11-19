@@ -1,0 +1,7 @@
+{
+  "result": "East",
+  "rng_calls": [
+    "random",
+    "choice"
+  ]
+}

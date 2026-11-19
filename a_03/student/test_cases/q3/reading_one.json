@@ -1,0 +1,6 @@
+{
+  "description": "Weight and normalise",
+  "operation": "observe",
+  "map": "corridor",
+  "observation": 1
+}

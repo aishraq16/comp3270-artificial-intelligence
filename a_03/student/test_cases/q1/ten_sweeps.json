@@ -1,0 +1,6 @@
+{
+  "description": "Exactly 10 synchronous sweeps",
+  "operation": "value_iteration",
+  "map": "gridworld",
+  "iterations": 10
+}

@@ -1,0 +1,5 @@
+{
+  "description": "Symmetric motion preserves a uniform belief",
+  "operation": "predict",
+  "map": "ghost_room"
+}

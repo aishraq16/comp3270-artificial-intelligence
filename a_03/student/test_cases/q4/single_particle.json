@@ -1,0 +1,13 @@
+{
+  "description": "Preserve even a one-particle representation",
+  "operation": "observe_particles",
+  "map": "corridor",
+  "particles": [
+    [
+      0,
+      1
+    ]
+  ],
+  "observation": 1,
+  "seed": 1
+}

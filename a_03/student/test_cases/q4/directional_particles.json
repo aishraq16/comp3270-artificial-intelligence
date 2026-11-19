@@ -1,0 +1,48 @@
+{
+  "description": "Sample the supplied asymmetric motion model",
+  "operation": "predict_particles",
+  "map": "drifting_corridor",
+  "particles": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "seed": 4
+}

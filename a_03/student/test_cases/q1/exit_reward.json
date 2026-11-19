@@ -1,0 +1,11 @@
+{
+  "description": "Exit ends the episode",
+  "operation": "action_value",
+  "map": "gridworld",
+  "state": [
+    1,
+    3
+  ],
+  "action": "Exit",
+  "values": []
+}

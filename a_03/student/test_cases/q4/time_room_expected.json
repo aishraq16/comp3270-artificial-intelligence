@@ -1,0 +1,31 @@
+{
+  "result": [
+    [
+      1,
+      0
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "rng_calls": [
+    "random",
+    "random",
+    "random",
+    "random",
+    "random"
+  ]
+}

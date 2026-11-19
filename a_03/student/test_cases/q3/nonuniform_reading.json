@@ -1,0 +1,22 @@
+{
+  "description": "Use the prior, not likelihood alone",
+  "operation": "observe",
+  "map": "corridor",
+  "belief": [
+    [
+      [
+        0,
+        0
+      ],
+      0.75
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      0.25
+    ]
+  ],
+  "observation": 1
+}

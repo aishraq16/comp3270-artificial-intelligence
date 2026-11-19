@@ -1,0 +1,53 @@
+{
+  "moves": [
+    [
+      "P",
+      "North"
+    ],
+    [
+      "W",
+      "West"
+    ],
+    [
+      "P",
+      "East"
+    ],
+    [
+      "W",
+      "East"
+    ],
+    [
+      "P",
+      "North"
+    ],
+    [
+      "W",
+      "South"
+    ],
+    [
+      "P",
+      "North"
+    ]
+  ],
+  "final": {
+    "pos": [
+      2,
+      2
+    ],
+    "ghosts": {
+      "W": [
+        2,
+        2
+      ]
+    },
+    "food": [
+      [
+        5,
+        2
+      ]
+    ],
+    "score": -494,
+    "winner": "Ghost"
+  },
+  "expanded": 0
+}

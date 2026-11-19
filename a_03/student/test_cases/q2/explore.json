@@ -1,0 +1,18 @@
+{
+  "description": "Epsilon-greedy action selection",
+  "operation": "choose_action",
+  "map": "gridworld",
+  "state": [
+    0,
+    0
+  ],
+  "epsilon": 1,
+  "actions": [
+    "North",
+    "East",
+    "South",
+    "West"
+  ],
+  "q_values": [],
+  "seed": 7
+}

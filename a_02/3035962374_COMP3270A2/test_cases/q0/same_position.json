@@ -1,0 +1,14 @@
+{
+  "map": "corridor.json",
+  "seed": 8,
+  "depth": 2,
+  "max_rounds": 40,
+  "a": [
+    2,
+    3
+  ],
+  "b": [
+    2,
+    3
+  ]
+}

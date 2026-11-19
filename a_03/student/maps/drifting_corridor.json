@@ -1,0 +1,12 @@
+{
+  "kind": "hmm",
+  "grid": [
+    "● "
+  ],
+  "direction_probabilities": {
+    "North": 0.1,
+    "East": 0.6,
+    "South": 0.1,
+    "West": 0.2
+  }
+}

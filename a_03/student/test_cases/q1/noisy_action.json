@@ -1,0 +1,33 @@
+{
+  "description": "Expected return includes all three directions",
+  "operation": "action_value",
+  "map": "gridworld",
+  "state": [
+    0,
+    2
+  ],
+  "action": "East",
+  "values": [
+    [
+      [
+        0,
+        3
+      ],
+      1
+    ],
+    [
+      [
+        0,
+        2
+      ],
+      -0.04
+    ],
+    [
+      [
+        1,
+        2
+      ],
+      -0.04
+    ]
+  ]
+}

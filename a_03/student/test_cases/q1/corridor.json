@@ -1,0 +1,6 @@
+{
+  "description": "Reward propagates one cell per sweep",
+  "operation": "value_iteration",
+  "map": "deterministic",
+  "iterations": 3
+}

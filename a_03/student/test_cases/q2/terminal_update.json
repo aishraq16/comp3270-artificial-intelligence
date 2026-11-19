@@ -1,0 +1,16 @@
+{
+  "description": "Exit has no future value",
+  "operation": "q_update",
+  "map": "gridworld",
+  "state": [
+    0,
+    3
+  ],
+  "action": "Exit",
+  "reward": 1,
+  "next_state": null,
+  "next_actions": [],
+  "alpha": 0.5,
+  "gamma": 0.9,
+  "q_values": []
+}

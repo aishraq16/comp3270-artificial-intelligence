@@ -1,0 +1,5 @@
+{
+  "description": "Asymmetric motion: use previous-to-next transition probabilities",
+  "operation": "predict",
+  "map": "drifting_corridor"
+}

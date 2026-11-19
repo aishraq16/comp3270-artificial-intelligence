@@ -1,0 +1,14 @@
+{
+  "description": "Mass moves from one state to its neighbours",
+  "operation": "predict",
+  "map": "corridor",
+  "belief": [
+    [
+      [
+        0,
+        1
+      ],
+      1
+    ]
+  ]
+}
