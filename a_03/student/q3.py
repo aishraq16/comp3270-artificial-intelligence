@@ -10,8 +10,9 @@ def predict(problem, belief):
     #raise NotImplementedError("Implement predict")
     new_belief = {state : 0.0 for state in problem["states"]}
     for state in problem["states"]:
-        for next_state, p in ghost_transitions(problem, state):
-            new_belief[state] += p * belief[next_state]
+        transitions = ghost_transitions(problem, state)
+        for next_state in transitions.keys():
+            new_belief[state] +=  transitions[next_state] * belief[next_state]
     return new_belief
 
 
@@ -26,8 +27,6 @@ def observe(problem, belief, observation):
     for state in problem["states"]:
         new_belief[state] = observation_probability(problem, state, observation) * belief[state] / z
     return new_belief
-
-
 
 if __name__ == "__main__":
     from support.runner import main
